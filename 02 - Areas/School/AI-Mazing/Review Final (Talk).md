@@ -16,7 +16,7 @@ L'objectif principal était de développer une intelligence artificielle capable
 - github pour versioning
 trello nous a permit d'organiser et de répartir les tâches. chaque membre avait ses tâches clairement définies et expliqués, avec les ressources disponibles bien attribué et séparés.
 github pour le versioning du code, ça m'a pas été personnelemnt utile puisque m'a partie était unique, mais pour d'autres membres c'était utile, surtout dans la programmation du robot.
-des problèmes imprévus qu'on a eu pendant le projet, était par la construction du robot qui avait pris du temps, et que ça a pris du temps jusqu'à ce qu'on puisse tester. donc voir si l'IA était crédible également. puis la caméra.
+des problèmes imprévus qu'on a eu pendant le projet, était par la construction du robot qui avait pris du temps, jusqu'à ce qu'on puisse tester. donc voir si l'IA était crédible également. puis la caméra.
 
 ### Slide 4: Diagramme de gantt
 * Montrer le planning
@@ -44,12 +44,12 @@ comme dans la R2 (inputs, hidden, output) layers
 fonction activation ,etc
 
 ### Slide 10-11?: Dev techonlogie et architecture
-Presenter C#.Net MVVM
+Presenter C#.Net MVC
 
 ### Slide 12: Use case of both apps (explain)
 
 ### Slide 13: App entrainement model
-talk about fonctionnalités (je montrerair dans la demo comment créer un modèle)
+talk about fonctionnalités (je montrerait dans la demo comment créer un modèle)
 montrer les diagrammes dans les deux apps qui montre que j'ai reflechi avant de commencer à travailler qui explique la logique de l'app en elle meme
 
 ### Slide 14: App Simulator
