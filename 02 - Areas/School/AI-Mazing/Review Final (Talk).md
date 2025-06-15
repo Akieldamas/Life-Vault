@@ -63,8 +63,6 @@ année prochaine: BUT+3 (peut être master), game dev et d'autres projets
 
 De m'avoir écouté!​
 
-
-
 ## Demo (20 mins)
 
 Start by presenting MY part. (the training app, show how to create a model, the different parameters,   test a model, load a model etc.
@@ -76,6 +74,7 @@ Q-Table, "Mémoire" pour chaque situation avec les actions + recompense.
 
 then show API test (the token, body thing)
 then create a bad model for later.
+after saving, show The database
 
 present the robot, what's the ESP32 for, whats the arduino for, moves with the servomoteurs, the amplificateur at the back for the volts.
 camera
