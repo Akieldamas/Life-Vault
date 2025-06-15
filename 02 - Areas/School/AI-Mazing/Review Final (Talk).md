@@ -61,5 +61,28 @@ ponts égatif: reinforcement learning was difficult alone, stress
 amélioraition futures, impléméntation reinforcement dans le robot, plus d'automation (talk about 7 input)
 année prochaine: BUT+3 (peut être master), game dev et d'autres projets
 
+De m'avoir écouté!​
+
+
 
 ## Demo (20 mins)
+
+Start by presenting MY part. (the training app, show how to create a model, the different parameters,   test a model, load a model etc.
+then move on to the simulation, show the manual mode, show the random (and the fact that it's not 100% randomized, show the code as well), then AI (and show it), then finally reinforcement and explain it (the best way possible, show code as well)
+
+Reinforcement Learning:
+Q-Learning, une méthode de RL basé sur du test aleatoire, qui fait des actions et qui donnent une conséquence (bonne ou mauvaise)
+Q-Table, "Mémoire" pour chaque situation avec les actions + recompense.
+
+then show API test (the token, body thing)
+then create a bad model for later.
+
+present the robot, what's the ESP32 for, whats the arduino for, moves with the servomoteurs, the amplificateur at the back for the volts.
+camera
+
+talk about the orientation part (remember that it was mentioned briefly in the repartition taches), show it running.
+explain the color sensor and the "suiveur de ligne" to show its actual AI
+
+talk about the issues like if it starts walking backwards, mention the fact it's not perfect.
+
+after you complete one section, show the website.
